@@ -1,0 +1,83 @@
+/* Imports */
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap");
+
+body {
+  background-color: #f4f4f4;
+  font-family: arial;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: rgba(255, 255, 255, 0.4);
+  color: #333;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #3333333d;
+  box-shadow: 5px 5px 15px rgba(50, 50, 50, 0.1);
+  border-radius: 15px;
+}
+h1 {
+  font-size: 50px;
+  font-family: "crafty girls", cursive;
+  color: #333;
+}
+li {
+  color: black;
+  font-family: "kalam-light", cursive;
+  text-align: left;
+}
+h2,
+h3,
+h5 {
+  font-family: "Playwrite IT Moderna", cursive;
+  text-align: center;
+  color: black;
+}
+h4 {
+  font-family: "newsreader", cursive;
+  font-size: 17px;
+  text-align: left;
+  color: black;
+}
+p {
+  font-family: "kalam-light", cursive;
+  text-align: left;
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: rgb(25, 25, 112);
+  font-family: "Playwrite IT Moderna", cursive;
+}
+a:hover {
+  color: rgb(0, 0, 255);
+  text-decoration: underline;
+  font-family: "Playwrite IT Moderna", cursive;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.center-image {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(50, 50, 50, 0.1);
+}
+h6 {
+  font-family: "Play IT Moderna", cursive;
+  font-size: xx-small;
+  text-align: center;
+}
