@@ -9,6 +9,8 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap");
 
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
 body {
   background-color: #f4f4f4;
   font-family: arial;
@@ -31,7 +33,7 @@ h1 {
 }
 li {
   color: black;
-  font-family: "kalam-light", cursive;
+  font-family: "Playwrite DE Grund";
   text-align: left;
 }
 h2,
