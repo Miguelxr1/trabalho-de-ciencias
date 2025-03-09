@@ -70,18 +70,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 0; /* Remova a margem inferior */
-}
-
-.image-container img {
-  margin: 0; /* Remova qualquer margem da imagem */
-  padding: 0; /* Remova qualquer padding da imagem */
-  max-width: 100%; /* Garanta que a imagem não ultrapasse a largura do contêiner */
-}
-
-section {
-  margin-top: 0; /* Remova a margem superior das seções */
-  padding-top: 0; /* Remova o padding superior das seções */
+  height: 100vh;
 }
 .center-image {
   max-width: 100%;
