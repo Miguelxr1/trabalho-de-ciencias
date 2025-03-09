@@ -30,7 +30,7 @@ h1 {
   font-size: 50px;
   font-family: "crafty girls", cursive;
   color: #333;
-  margin-botton: auto;
+  margin-botton: 0;
 }
 li {
   color: black;
@@ -70,7 +70,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin-botton: auto;
+  margin-botton: 0;
 }
 .center-image {
   max-width: 100%;
