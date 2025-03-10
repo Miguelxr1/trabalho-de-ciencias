@@ -39,10 +39,14 @@ li {
   text-align: left !important;
 }
 h2,
-h3,
 h5 {
   font-family: "Playwrite IT Moderna", cursive;
   text-align: center;
+  color: black;
+}
+h3 {
+  font-family: "Playwrite IT Moderna", cursive;
+  text-align: left;
   color: black;
 }
 h4 {
