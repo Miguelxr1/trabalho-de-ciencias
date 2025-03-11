@@ -27,19 +27,14 @@ header {
   box-shadow: 5px 5px 15px rgba(50, 50, 50, 0.1);
   border-radius: 15px;
 }
+
 h1 {
   font-size: 50px;
   font-family: "crafty girls", cursive;
   color: #333;
   margin-bottom: 0;
 }
-li {
-  color: black;
-  font-family: "Playwrite DE Grund";
-  text-align: left !important;
-}
-h2,
-h5 {
+h2 {
   font-family: "Playwrite IT Moderna", cursive;
   text-align: center;
   color: black;
@@ -55,10 +50,26 @@ h4 {
   text-align: left !important;
   color: black;
 }
+h5 {
+  font-family: "Playwrite IT Moderna", cursive;
+  text-align: left !important;
+  color: black;
+}
+h6 {
+  font-family: "Play IT Moderna", cursive;
+  font-size: xx-small;
+  text-align: center;
+}
 p {
   font-family: "Playwrite DE Grund";
   text-align: left !important;
   color: black;
+}
+li {
+  color: black;
+  font-family: "Playwrite DE Grund";
+  text-align: left !important;
+  list-style-type: disc;
 }
 a {
   text-decoration: none;
@@ -83,9 +94,4 @@ a:hover {
 img {
   border-radius: 15px;
   box-shadow: 5px 5px 15px rgba(50, 50, 50, 0.1);
-}
-h6 {
-  font-family: "Play IT Moderna", cursive;
-  font-size: xx-small;
-  text-align: center;
 }
