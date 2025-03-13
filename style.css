@@ -90,7 +90,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 100dvh;
 }
 .center-image {
   max-width: 100%;
